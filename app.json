@@ -1,5 +1,5 @@
 {
-  "name": "MissJuliaRobot",
+  "name": "LeaderSource",
   "description": "A Telegram Group Management Bot",
   "logo": "https://telegra.ph/file/517f97b74ad036b2ef3c9.jpg",
   "keywords": ["telethon", "sqlalchemy", "mongodb"],
@@ -33,7 +33,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Copy paste the repository url here (fork/official)",
-      "value": "https://github.com/MissJuliaRobot/MissJuliaRobot",
+      "value": "https://github.com/Me-D00/pyLeader",
       "required": false
     },
     "OPENWEATHERMAP_ID": {
